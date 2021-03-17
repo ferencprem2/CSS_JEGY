@@ -11,6 +11,8 @@ table{
     border: none;
     background-color: #5C6B7B;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 #masidik{
@@ -22,8 +24,15 @@ table{
     height: 35px;
 }
 strong{
-    font-size: larger;
+    font-size: xx-large;
 }
 #ball{
     text-align: justify;
+}
+span{
+    font-size: smaller;
+}
+#memex{
+    margin-left: auto;
+    margin-right: auto;
 }
