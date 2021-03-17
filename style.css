@@ -35,4 +35,12 @@ span{
 #memex{
     margin-left: auto;
     margin-right: auto;
+    display: block;
+}
+#vannevar{
+    float: right;
+
+}
+#baloldal{
+    text-align:left;
 }
