@@ -2,7 +2,7 @@ body{
     background-color: #E0E0E0;
 }
 
-img{
+#cim{
     background-color: rgb(177, 199, 233 );
     background-repeat: repeat-x;
 }
@@ -13,7 +13,6 @@ table{
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-
 }
 #masidik{
     width: 600px;
