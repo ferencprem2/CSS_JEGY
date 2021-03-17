@@ -19,4 +19,11 @@ table{
 }
 #vilkek{
     background-color: #CDDBEB;
+    height: 35px;
+}
+strong{
+    font-size: larger;
+}
+#ball{
+    text-align: justify;
 }
